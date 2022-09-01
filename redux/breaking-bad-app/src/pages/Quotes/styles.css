@@ -1,0 +1,18 @@
+.quote_item {
+    padding: 10px 0;
+}
+
+.quote_item > a {
+    text-decoration: none;
+}
+
+.quote_item > a:hover {
+    text-decoration: underline;
+}
+
+.quotes_info{
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}

@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.active{
+  background-color: blue;
+  color: white;
+  padding: 2px;
+  text-decoration: underline;
+}
+
+.deactive{
+  color: rgb(91, 91, 91);
+  padding: 2px;
+}
+
+a{
+  text-decoration: none;
+}
